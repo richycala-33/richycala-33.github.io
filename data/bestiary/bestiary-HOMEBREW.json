@@ -8,19 +8,65 @@
       "size": "L",
       "type": "monstrosity",
       "alignment": "U",
-      "ac": [ { "ac": 18, "from": ["plate armor"] } ],
-      "hp": { "average": 63, "formula": "7d10 + 21" },
-      "speed": { "walk": 40 },
-      "str": 20, "dex": 12, "con": 17, "int": 6, "wis": 12, "cha": 7,
-      "skill": { "athletics": "+3" },
+      "ac": [
+        {
+          "ac": 18,
+          "from": [
+            "plate armor"
+          ]
+        }
+      ],
+      "hp": {
+        "average": 63,
+        "formula": "7d10 + 21"
+      },
+      "speed": {
+        "walk": 40
+      },
+      "str": 20,
+      "dex": 12,
+      "con": 17,
+      "int": 6,
+      "wis": 12,
+      "cha": 7,
+      "skill": {
+        "athletics": "+3"
+      },
       "senses": "darkvision 60 ft., passive Perception 13",
       "languages": "Common",
-      "trait": [ { "name": "Keen Smell", "entries": [ "The bear has advantage on Wisdom (Perception) checks that rely on smell." ] } ],
+      "trait": [
+        {
+          "name": "Keen Smell",
+          "entries": [
+            "The bear has advantage on Wisdom (Perception) checks that rely on smell."
+          ]
+        }
+      ],
       "action": [
-        { "name": "Multiattack", "entries": [ "The bear makes two attacks: one with its bite and one with its claws." ] },
-        { "name": "Bite", "entries": [ "{@atk mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}Hit: 10 ({@dice 1d10+5}) piercing damage plus 5 ({@dice 1d8}) cold damage." ] },
-        { "name": "Claws", "entries": [ "{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}Hit: 14 ({@dice 2d8+5}) slashing damage plus 5 ({@dice 1d8}) cold damage." ] },
-        { "name": "Frost Breath", "entries": [ "The bear exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a {@dc 12} Constitution saving throw, taking 18 ({@dice 4d8}) cold damage on a failed save, or half as much damage on a successful one." ] }
+        {
+          "name": "Multiattack",
+          "entries": [
+            "The bear makes two attacks: one with its bite and one with its claws."
+          ]
+        },
+        {
+          "name": "Bite",
+          "entries": [
+            "{@atk mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}Hit: 10 ({@dice 1d10+5}) piercing damage plus 5 ({@dice 1d8}) cold damage."
+          ]
+        },
+        {
+          "name": "Claws",
+          "entries": [
+            "{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}Hit: 14 ({@dice 2d8+5}) slashing damage plus 5 ({@dice 1d8}) cold damage."
+          ]
+        },
+        {
+          "name": "Frost Breath",
+          "entries": [
+            "The bear exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a {@dc 12} Constitution saving throw, taking 18 ({@dice 4d8}) cold damage on a failed save, or half as much damage on a successful one."
+          ]
+        }
       ],
       "cr": "4",
       "entries": []
