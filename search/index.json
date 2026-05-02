@@ -1,6 +1,6 @@
 {
   "x": [
-    { "id": 1, "c": 1, "n": "Frost Wisp", "cn": "霜雪巨熊", "s": "HOMEBREW", "u": "Frost Giant Bear" },
+    { "id": 1, "c": 1, "n": "Frost Giant Bear", "cn": "霜雪巨熊", "s": "HOMEBREW", "u": "frost-giant-bear" },
     { "id": 2, "c": 1, "n": "Ember Seed", "cn": "余烬种子", "s": "HOMEBREW", "u": "ember-seed" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
