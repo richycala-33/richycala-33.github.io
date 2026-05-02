@@ -1,0 +1,6 @@
+{
+  "x": [
+    { "id": 1, "c": 1, "n": "Frost Giant Bear", "cn": "霜雪巨熊", "s": "HOMEBREW", "u": "frost-giant-bear" }
+  ],
+  "m": { "s": { "HOMEBREW": 99 } }
+}
