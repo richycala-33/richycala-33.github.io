@@ -1,6 +1,7 @@
 {
   "monster": [
     {
+      "id": 1,
       "name": "霜雪巨熊",
       "ENG_name": "Frost Giant Bear",
       "source": "HOMEBREW",
