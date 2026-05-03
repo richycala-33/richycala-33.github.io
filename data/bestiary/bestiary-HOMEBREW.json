@@ -1,8 +1,8 @@
 {
   "monster": [
     {
-      "name": "霜雪巨熊1",
-      "ENG_name": "Frost Giant Bearr",
+      "name": "霜雪巨熊",
+      "ENG_name": "Frost Giant Bear",
       "source": "HOMEBREW",
       "page": 0,
       "size": "L",
@@ -70,16 +70,6 @@
       ],
       "cr": "4",
       "entries": []
-    }
-  ],
-  "entryIndex": [
-    {
-      "id": 1,
-      "c": 1,
-      "n": "Frost Giant Bearr",
-      "cn": "霜雪巨熊",
-      "s": "HOMEBREW",
-      "u": "frost-giant-bearr"
     },
     {
       "name": "霜雪巨熊1",
@@ -155,12 +145,20 @@
   ],
   "entryIndex": [
     {
-      "id": 2,
+      "id": 1,
       "c": 1,
       "n": "Frost Giant Bear",
       "cn": "霜雪巨熊",
       "s": "HOMEBREW",
       "u": "frost-giant-bear"
+    },
+    {
+      "id": 2,
+      "c": 1,
+      "n": "Frost Giant Bearr",
+      "cn": "霜雪巨熊1",
+      "s": "HOMEBREW",
+      "u": "frost-giant-bearr"
     }
   ]
 }
