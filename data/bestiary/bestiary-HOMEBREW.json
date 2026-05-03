@@ -80,6 +80,87 @@
       "cn": "霜雪巨熊",
       "s": "HOMEBREW",
       "u": "frost-giant-bear"
+    },
+    {
+      "name": "霜雪巨熊1",
+      "ENG_name": "Frost Giant Bearr",
+      "source": "HOMEBREW",
+      "page": 0,
+      "size": "L",
+      "type": "monstrosity",
+      "alignment": "U",
+      "ac": [
+        {
+          "ac": 18,
+          "from": [
+            "plate armor"
+          ]
+        }
+      ],
+      "hp": {
+        "average": 63,
+        "formula": "7d10 + 21"
+      },
+      "speed": {
+        "walk": 40
+      },
+      "str": 20,
+      "dex": 12,
+      "con": 17,
+      "int": 6,
+      "wis": 12,
+      "cha": 7,
+      "skill": {
+        "athletics": "+3"
+      },
+      "senses": "黑暗视觉60 尺，被动感知13",
+      "languages": "通用语",
+      "trait": [
+        {
+          "name": "敏锐嗅觉",
+          "entries": [
+            "熊在依赖嗅觉的感知（察觉）检定中具有优势。"
+          ]
+        }
+      ],
+      "action": [
+        {
+          "name": "多重攻击",
+          "entries": [
+            "霜雪巨熊进行二次攻击：一次啃咬，一次爪击。"
+          ]
+        },
+        {
+          "name": "啃咬",
+          "entries": [
+            "近战武器攻击：命中+7，触及5尺，单一生物。若命中： 10 ( 1d10 + 5 )穿刺伤害+5（1d8）冷冻伤害。"
+          ]
+        },
+        {
+          "name": "爪击",
+          "entries": [
+            "近战武器攻击：命中+7，触及5尺，单一目标。若命中： 14 ( 2d8 + 5 )挥砍伤害+5（1d8）冷冻伤害。"
+          ]
+        },
+        {
+          "name": "冷冻吐息",
+          "entries": [
+            "霜雪巨熊吐出一道15尺锥形的冰雪风暴。每个在吐息范围内的生物都必须进行一次DC 12的体质豁免，豁免失败则受到18 (4d8)冷冻伤害，豁免成功则只受到一半的伤害。"
+          ]
+        }
+      ],
+      "cr": "4",
+      "entries": []
+    }
+  ],
+  "entryIndex": [
+    {
+      "id": 2,
+      "c": 1,
+      "n": "Frost Giant Bearr",
+      "cn": "霜雪巨熊1",
+      "s": "HOMEBREW",
+      "u": "frost-giant-bearr"
     }
   ]
 }
