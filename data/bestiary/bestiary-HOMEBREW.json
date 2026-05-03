@@ -1,7 +1,6 @@
 {
   "monster": [
     {
-      "id": 1,
       "name": "霜雪巨熊",
       "ENG_name": "Frost Giant Bear",
       "source": "HOMEBREW",
@@ -33,44 +32,54 @@
       "skill": {
         "athletics": "+3"
       },
-      "senses": "darkvision 60 ft., passive Perception 13",
-      "languages": "Common",
+      "senses": "黑暗视觉60 尺，被动感知13",
+      "languages": "通用语",
       "trait": [
         {
-          "name": "Keen Smell",
+          "name": "敏锐嗅觉",
           "entries": [
-            "The bear has advantage on Wisdom (Perception) checks that rely on smell."
+            "熊在依赖嗅觉的感知（察觉）检定中具有优势。"
           ]
         }
       ],
       "action": [
         {
-          "name": "Multiattack",
+          "name": "多重攻击",
           "entries": [
-            "The bear makes two attacks: one with its bite and one with its claws."
+            "霜雪巨熊进行二次攻击：一次啃咬，一次爪击。"
           ]
         },
         {
-          "name": "Bite",
+          "name": "啃咬",
           "entries": [
-            "{@atk mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}Hit: 10 ({@dice 1d10+5}) piercing damage plus 5 ({@dice 1d8}) cold damage."
+            "近战武器攻击：命中+7，触及5尺，单一生物。若命中： 10 ( 1d10 + 5 )穿刺伤害+5（1d8）冷冻伤害。"
           ]
         },
         {
-          "name": "Claws",
+          "name": "爪击",
           "entries": [
-            "{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}Hit: 14 ({@dice 2d8+5}) slashing damage plus 5 ({@dice 1d8}) cold damage."
+            "近战武器攻击：命中+7，触及5尺，单一目标。若命中： 14 ( 2d8 + 5 )挥砍伤害+5（1d8）冷冻伤害。"
           ]
         },
         {
-          "name": "Frost Breath",
+          "name": "冷冻吐息",
           "entries": [
-            "The bear exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a {@dc 12} Constitution saving throw, taking 18 ({@dice 4d8}) cold damage on a failed save, or half as much damage on a successful one."
+            "霜雪巨熊吐出一道15尺锥形的冰雪风暴。每个在吐息范围内的生物都必须进行一次DC 12的体质豁免，豁免失败则受到18 (4d8)冷冻伤害，豁免成功则只受到一半的伤害。"
           ]
         }
       ],
       "cr": "4",
       "entries": []
+    }
+  ],
+  "entryIndex": [
+    {
+      "id": 1,
+      "c": 1,
+      "n": "Frost Giant Bear",
+      "cn": "霜雪巨熊",
+      "s": "HOMEBREW",
+      "u": "frost-giant-bear"
     }
   ]
 }
