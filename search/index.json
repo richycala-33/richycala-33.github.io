@@ -2,7 +2,7 @@
   "x": [
     { "id": 1, "c": 1, "n": "Frost Giant Bear", "cn": "霜雪巨熊", "s": "HOMEBREW", "u": "frost-giant-bear" },
     { "id": 2, "c": 1, "n": "Frost Giant Bearr", "cn": "霜雪巨熊1", "s": "HOMEBREW", "u": "frost-giant-bearr" },
-    { "id": 3, "c": 1, "n": "Frost Giant Bearrr", "cn": "霜雪巨熊2", "s": "HOMEBREW", "u": "frost-giant-bearrr" },
+    { "id": 3, "c": 1, "n": "Frost Giant Bearrr", "cn": "霜雪巨熊", "s": "HOMEBREW", "u": "frost-giant-bearrr" },
     { "id": 4, "c": 1, "n": "Green", "cn": "格林", "s": "HOMEBREW", "u": "green" },
     { "id": 5, "c": 1, "n": "Kata", "cn": "卡塔", "s": "HOMEBREW", "u": "kata" },
     { "id": 6, "c": 1, "n": "Torell", "cn": "托雷尔", "s": "HOMEBREW", "u": "torell" },
