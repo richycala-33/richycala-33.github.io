@@ -7,7 +7,12 @@
     { "id": 5, "c": 1, "n": "Kata", "cn": "卡塔", "s": "HOMEBREW", "u": "kata" },
     { "id": 6, "c": 1, "n": "Torell", "cn": "托雷尔", "s": "HOMEBREW", "u": "torell" },
     { "id": 7, "c": 1, "n": "Zhentarim fighter", "cn": "散塔林会战士", "s": "HOMEBREW", "u": "zhentarim-fighter" },
-    { "id": 8, "c": 1, "n": "Strengthened Skeleton", "cn": "强化骷髅", "s": "HOMEBREW", "u": "strengthened-skeleton" }
+    { "id": 8, "c": 1, "n": "Strengthened Skeleton", "cn": "强化骷髅", "s": "HOMEBREW", "u": "strengthened-skeleton" },
+    { "id": 9, "c": 1, "n": "Long-lived Lynx", "cn": "长命山猫", "s": "HOMEBREW", "u": "long-lived-lynx" },
+    { "id": 10, "c": 1, "n": "Swarm Of Ephemeral Mayflies", "cn": "时蜉蝣集群", "s": "HOMEBREW", "u": "strengthened-skeleton" },
+    { "id": 11, "c": 1, "n": "Chronurgy Wizard Nei", "cn": "时间法师·内", "s": "HOMEBREW", "u": "chronurgy-wizard-nei" },
+    { "id": 12, "c": 1, "n": "Lingering Shadow Of Line", "cn": "林恩的残影", "s": "HOMEBREW", "u": "lingering-shadow-of-line" },
+    { "id": 13, "c": 1, "n": "Lingering Shadow Of Glenn", "cn": "格伦的残影", "s": "HOMEBREW", "u": "lingering-shadow-of-glenn" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
