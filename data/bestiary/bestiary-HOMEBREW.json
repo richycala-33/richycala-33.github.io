@@ -622,6 +622,341 @@
       ],
       "cr": "1",
       "entries": []
+    },
+    {
+      "name": "长命山猫",
+      "ENG_name": "Long-lived Lynx",
+      "source": "HOMEBREW",
+      "page": 0,
+      "size": "M",
+      "type": "怪兽",
+      "alignment": "CE",
+      "ac": [
+        {
+          "ac": 13
+        }
+      ],
+      "hp": {
+        "average": 33,
+        "formula": "6d8+6"
+      },
+      "speed": {
+        "walk": 40
+      },
+      "str": 16,
+      "dex": 12,
+      "con": 13,
+      "int": 9,
+      "wis": 12,
+      "cha": 10,
+      "skill": {
+        "perception": "+5",
+        "stealth": "+3"
+      },
+      "senses": "被动察觉15",
+      "cr": "2",
+      "trait": [
+        {
+          "name": "飞掠",
+          "entries": [
+            "长命山猫离开敌人的触及时不会引发借机攻击。"
+          ]
+        }
+      ],
+      "action": [
+        {
+          "name": "多重攻击",
+          "entries": [
+            "长命山猫发动一次啃咬攻击和一次爪攻击。"
+          ]
+        },
+        {
+          "name": "啃咬",
+          "entries": [
+            "{@atk mw} {@hit 5}，触及5尺。命中：7 ({@dice 1d8+3}) 穿刺伤害。"
+          ]
+        },
+        {
+          "name": "爪",
+          "entries": [
+            "{@atk mw} {@hit 5}，触及5尺。命中：8 ({@dice 2d4+3}) 挥砍伤害。若长命山猫在此次攻击前立即向着目标直线移动了30+尺，则目标额外受到9 ({@dice 2d8}) 穿刺伤害。"
+          ]
+        }
+      ],
+      "entries": []
+    },
+    {
+      "name": "时蜉蝣集群",
+      "ENG_name": "Swarm Of Ephemeral Mayflies",
+      "source": "HOMEBREW",
+      "page": 0,
+      "size": "M",
+      "type": "微型野兽的中型集群",
+      "alignment": "U",
+      "ac": [
+        {
+          "ac": 11
+        }
+      ],
+      "hp": {
+        "average": 19,
+        "formula": "3d8+6"
+      },
+      "speed": {
+        "walk": 20,
+        "fly": 20
+      },
+      "str": 3,
+      "dex": 13,
+      "con": 14,
+      "int": 1,
+      "wis": 7,
+      "cha": 1,
+      "senses": "盲视30尺，被动察觉8",
+      "languages": "无",
+      "resist": [
+        "bludgeoning",
+        "piercing",
+        "slashing"
+      ],
+      "conditionImmune": [
+        "charmed",
+        "frightened",
+        "grappled",
+        "paralyzed",
+        "petrified",
+        "prone",
+        "restrained",
+        "stunned"
+      ],
+      "trait": [
+        {
+          "name": "集群",
+          "entries": [
+            "昆虫集群可以进驻另一生物身处的空间，反之亦然。而且昆虫集群可以通过任何足够一只微型昆虫通过的通道。昆虫集群不能恢复生命值也不能获得临时生命值。"
+          ]
+        }
+      ],
+      "action": [
+        {
+          "name": "时流啃咬",
+          "entries": [
+            "{@atk mw} {@hit 3}，触及5尺。命中：6 ({@dice 2d4+1}) 暗蚀伤害，若昆虫集群处于浴血则改为3 ({@dice 1d4+1}) 暗蚀伤害。"
+          ]
+        }
+      ],
+      "reaction": [
+        {
+          "name": "援护",
+          "entries": [
+            "触发：时蜉蝣母虫被时蜉蝣集群5尺内的一个生物以攻击或者法术选择为目标时。相应：时蜉蝣集群进行一次敏捷豁免检定，DC为该攻击的攻击检定值或者法术的豁免检定值，若成功，则该攻击或者法术改为以时蜉蝣为目标（该攻击必然命中，若是豁免效应则时蜉蝣集群自动失败）。"
+          ]
+        }
+      ],
+      "cr": "1/2",
+      "entries": []
+    },
+    {
+      "name": "时间法师·内",
+      "ENG_name": "Chronurgy Wizard Nei",
+      "source": "HOMEBREW",
+      "page": 0,
+      "size": "M",
+      "type": "类人生物(人类)",
+      "alignment": "NG",
+      "ac": [
+        {
+          "ac": 14
+        }
+      ],
+      "hp": {
+        "average": 11,
+        "formula": "2d8+2"
+      },
+      "speed": {
+        "walk": 30
+      },
+      "str": 8,
+      "dex": 18,
+      "con": 14,
+      "int": 18,
+      "wis": 13,
+      "cha": 12,
+      "skill": {
+        "religion": "+6",
+        "history": "+6",
+        "medicine": "+3",
+        "perception": "+3"
+      },
+      "senses": "被动察觉17",
+      "languages": "通用语，原初语",
+      "cr": "1",
+      "trait": [
+        {
+          "name": "终末时刻",
+          "entries": [
+            "内法师长休结束后将时刻点回复至等同于其等级。短休后恢复至一半（向下取整，至少为1），内法师的豁免难度为14。"
+          ]
+        },
+        {
+          "name": "窥时之眼",
+          "entries": [
+            "内法师永久拥有侦测魔法效果。"
+          ]
+        }
+      ],
+      "action": [
+        {
+          "name": "时轨爆破",
+          "entries": [
+            "内法师调取未来的终局覆盖于现在，对30 尺内的一个可见生物造成 {@dice 1d6} 力场伤害。"
+          ]
+        },
+        {
+          "name": "时之逆流",
+          "entries": [
+            "内法师令一个生物的伤口回到他受伤前的样子，使5 尺内一个自愿的盟友回复若干生命，其数值等同内法师上一回合结束后到此时，其受过的一次伤害。"
+          ]
+        }
+      ],
+      "reaction": [
+        {
+          "name": "时光倒流",
+          "entries": [
+            "触发：当30 尺内一个生物检定失败时。响应：消耗1 点时刻点，重新进行该检定，该生物必须使用重投的数值。"
+          ]
+        }
+      ],
+      "entries": []
+    },
+    {
+      "name": "林恩的残影",
+      "ENG_name": "Lingering Shadow Of Line",
+      "source": "HOMEBREW",
+      "page": 0,
+      "size": "M",
+      "type": "中型亡灵",
+      "alignment": "LN",
+      "ac": [
+        {
+          "ac": 14
+        }
+      ],
+      "hp": {
+        "average": 48,
+        "formula": "6d8+18"
+      },
+      "speed": {
+        "walk": 30
+      },
+      "str": 16,
+      "dex": 14,
+      "con": 16,
+      "int": 10,
+      "wis": 13,
+      "cha": 15,
+      "skill": {
+        "perception": "+3",
+        "stealth": "+4"
+      },
+      "senses": "黑暗视觉60尺，被动察觉13",
+      "languages": "通用语以及精灵语",
+      "resist": [
+        "necrotic"
+      ],
+      "immune": [
+        "poison"
+      ],
+      "conditionImmune": [
+        "exhaustion",
+        "poisoned"
+      ],
+      "action": [
+        {
+          "name": "多重攻击",
+          "entries": [
+            "林恩的残影使用短剑或短弓发动两次攻击。"
+          ]
+        },
+        {
+          "name": "短剑",
+          "entries": [
+            "{@atk mw} {@hit 4}，触及5尺。命中：5 ({@dice 1d6+2}) 挥砍伤害。"
+          ]
+        },
+        {
+          "name": "短弓",
+          "entries": [
+            "{@atk rw} {@hit 4}，射程150/600尺。命中：5 ({@dice 1d6+2}) 穿刺伤害。"
+          ]
+        }
+      ],
+      "cr": "2",
+      "entries": []
+    },
+    {
+      "name": "格伦的残影",
+      "ENG_name": "Lingering Shadow Of Glenn",
+      "source": "HOMEBREW",
+      "page": 0,
+      "size": "M",
+      "type": "中型亡灵",
+      "alignment": "CN",
+      "ac": [
+        {
+          "ac": 12
+        }
+      ],
+      "hp": {
+        "average": 27,
+        "formula": "5d8+5"
+      },
+      "speed": {
+        "walk": 40
+      },
+      "str": 14,
+      "dex": 6,
+      "con": 13,
+      "int": 10,
+      "wis": 10,
+      "cha": 8,
+      "skill": {
+        "stealth": "+6"
+      },
+      "senses": "黑暗视觉60尺，被动察觉10",
+      "languages": "无",
+      "resist": [
+        "acid",
+        "cold",
+        "fire",
+        "lightning",
+        "thunder"
+      ],
+      "immune": [
+        "necrotic",
+        "poison"
+      ],
+      "conditionImmune": [
+        "exhaustion",
+        "frightened",
+        "grappled",
+        "paralyzed",
+        "petrified",
+        "poisoned",
+        "prone",
+        "restrained",
+        "unconscious"
+      ],
+      "action": [
+        {
+          "name": "未铸完的剑",
+          "entries": [
+            "{@atk mw} {@hit 4}，触及5尺。命中：5 ({@dice 1d6+2}) 挥砍伤害和6 ({@dice 1d8}) 火焰伤害。"
+          ]
+        }
+      ],
+      "cr": "1/2",
+      "entries": []
     }
   ],
   "entryIndex": [
@@ -688,6 +1023,46 @@
       "cn": "强化骷髅",
       "s": "HOMEBREW",
       "u": "strengthened-skeleton"
+    },
+    {
+      "id": 9,
+      "c": 1,
+      "n": "Long-lived Lynx",
+      "cn": "长命山猫",
+      "s": "HOMEBREW",
+      "u": "long-lived-lynx"
+    },
+    {
+      "id": 10,
+      "c": 1,
+      "n": "Swarm Of Ephemeral Mayflies",
+      "cn": "时蜉蝣集群",
+      "s": "HOMEBREW",
+      "u": "swarm-of-ephemeral-mayflies"
+    },
+    {
+      "id": 11,
+      "c": 1,
+      "n": "Chronurgy Wizard Nei",
+      "cn": "时间法师·内",
+      "s": "HOMEBREW",
+      "u": "chronurgy-wizard-nei"
+    },
+    {
+      "id": 12,
+      "c": 1,
+      "n": "Lingering Shadow Of Line",
+      "cn": "林恩的残影",
+      "s": "HOMEBREW",
+      "u": "lingering-shadow-of-line"
+    },
+    {
+      "id": 13,
+      "c": 1,
+      "n": "Lingering Shadow Of Glenn",
+      "cn": "格伦的残影",
+      "s": "HOMEBREW",
+      "u": "lingering-shadow-of-glenn"
     }
   ]
 }
