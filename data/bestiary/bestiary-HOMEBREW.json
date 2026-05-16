@@ -957,6 +957,110 @@
       ],
       "cr": "1/2",
       "entries": []
+    },
+    {
+      "name": "贾姆娜·烁银",
+      "ENG_name": "Jamna Gleamsilver",
+      "source": "HOMEBREW",
+      "page": 0,
+      "size": "S",
+      "type": "类人生物(侏儒)",
+      "alignment": "N",
+      "ac": [
+        {
+          "ac": 17,
+          "from": [
+            "镶钉皮甲"
+          ]
+        }
+      ],
+      "hp": {
+        "average": 137,
+        "formula": "17d8+39"
+      },
+      "speed": {
+        "walk": 30
+      },
+      "str": 8,
+      "dex": 20,
+      "con": 16,
+      "int": 18,
+      "wis": 16,
+      "cha": 12,
+      "save": {
+        "str": "-1",
+        "dex": "+8",
+        "con": "+3",
+        "int": "+7",
+        "wis": "+3",
+        "cha": "+1"
+      },
+      "skill": {
+        "acrobatics": "+8",
+        "deception": "+4",
+        "insight": "+6",
+        "perception": "+9",
+        "persuasion": "+4",
+        "stealth": "+11"
+      },
+      "senses": "黑暗视觉 60尺，被动察觉19",
+      "languages": "通用语，侏儒语，地精语，木族语",
+      "cr": "7",
+      "trait": [
+        {
+          "name": "侏儒狡黠",
+          "entries": [
+            "贾姆娜为抵抗魔法而进行的智力、感知和魅力豁免具有优势。"
+          ]
+        },
+        {
+          "name": "施法",
+          "entries": [
+            "贾姆娜作为7级施法者，其施法关键属性为智力（法术豁免{@dc 15}，法术攻击命中{@hit 7}）。她准备了下列法师法术：",
+            "戏法（随意）：{@spell mage hand}，{@spell minor illusion}，{@spell prestidigitation}，{@spell ray of frost}",
+            "1环（4法术位）：{@spell charm person}，{@spell color spray}，{@spell disguise self}，{@spell longstrider}",
+            "2环（2法术位）：{@spell invisibility}，{@spell shadow blade}"
+          ]
+        }
+      ],
+      "action": [
+        {
+          "name": "多重攻击",
+          "entries": [
+            "贾姆娜发动三次短剑或短弓攻击。"
+          ]
+        },
+        {
+          "name": "短剑",
+          "entries": [
+            "{@atk mw} {@hit 8}，触及5尺，单一目标。伤害：8 ({@dice 1d6+5}) 点穿刺伤害，或当目标为中型或更大体型时12 ({@dice 2d6+5}) 点穿刺伤害。外加7 ({@dice 2d6}) 点毒素伤害。",
+            "使用{@spell shadow blade}时，伤害改为14 ({@dice 2d8+5}) 点心灵伤害，或当目标为中型或更大体型时18 ({@dice 3d8+5}) 点心灵伤害。外加7 ({@dice 2d6}) 点毒素伤害。"
+          ]
+        },
+        {
+          "name": "短弓",
+          "entries": [
+            "{@atk rw} {@hit 8}，射程80/320尺，单一目标。伤害：8 ({@dice 1d4+5}) 点穿刺伤害，外加7 ({@dice 2d6}) 点毒素伤害。"
+          ]
+        }
+      ],
+      "bonus": [
+        {
+          "name": "灵巧动作",
+          "entries": [
+            "执行撤离、疾走或躲藏动作。"
+          ]
+        }
+      ],
+      "reaction": [
+        {
+          "name": "直觉闪避",
+          "entries": [
+            "当攻击命中时，令此次攻击的伤害减半。此反应只有能看见攻击者的情况下才能使用。"
+          ]
+        }
+      ],
+      "entries": []
     }
   ],
   "entryIndex": [
@@ -1063,6 +1167,14 @@
       "cn": "格伦的残影",
       "s": "HOMEBREW",
       "u": "lingering-shadow-of-glenn"
+    },
+    {
+      "id": 14,
+      "c": 1,
+      "n": "Jamna Gleamsilver",
+      "cn": "贾姆娜·烁银",
+      "s": "HOMEBREW",
+      "u": "jamna-gleamsilver"
     }
   ]
 }
