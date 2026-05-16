@@ -12,7 +12,8 @@
     { "id": 10, "c": 1, "n": "Swarm Of Ephemeral Mayflies", "cn": "时蜉蝣集群", "s": "HOMEBREW", "u": "strengthened-skeleton" },
     { "id": 11, "c": 1, "n": "Chronurgy Wizard Nei", "cn": "时间法师·内", "s": "HOMEBREW", "u": "chronurgy-wizard-nei" },
     { "id": 12, "c": 1, "n": "Lingering Shadow Of Line", "cn": "林恩的残影", "s": "HOMEBREW", "u": "lingering-shadow-of-line" },
-    { "id": 13, "c": 1, "n": "Lingering Shadow Of Glenn", "cn": "格伦的残影", "s": "HOMEBREW", "u": "lingering-shadow-of-glenn" }
+    { "id": 13, "c": 1, "n": "Lingering Shadow Of Glenn", "cn": "格伦的残影", "s": "HOMEBREW", "u": "lingering-shadow-of-glenn" },
+    { "id": 14, "c": 1, "n": "Jamna Gleamsilver", "cn": "贾姆娜·烁银", "s": "HOMEBREW", "u": "jamna-gleamsilver" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
