@@ -14,7 +14,8 @@
     { "id": 12, "c": 1, "n": "Lingering Shadow Of Line", "cn": "林恩的残影", "s": "HOMEBREW", "u": "lingering-shadow-of-line" },
     { "id": 13, "c": 1, "n": "Lingering Shadow Of Glenn", "cn": "格伦的残影", "s": "HOMEBREW", "u": "lingering-shadow-of-glenn" },
     { "id": 14, "c": 1, "n": "Jamna Gleamsilver", "cn": "贾姆娜·烁银", "s": "HOMEBREW", "u": "jamna-gleamsilver" },
-    { "id": 15, "c": 1, "n": "Bain", "cn": "贝恩", "s": "HOMEBREW", "u": "bain" }
+    { "id": 15, "c": 1, "n": "Bain", "cn": "贝恩", "s": "HOMEBREW", "u": "bain" },
+    { "id": 15, "c": 1, "n": "Lola's afterimage", "cn": "罗拉的残影", "s": "HOMEBREW", "u": "lolas-afterimage" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
