@@ -16,7 +16,8 @@
     { "id": 14, "c": 1, "n": "Jamna Gleamsilver", "cn": "贾姆娜·烁银", "s": "HOMEBREW", "u": "jamna-gleamsilver" },
     { "id": 15, "c": 1, "n": "Bain", "cn": "贝恩", "s": "HOMEBREW", "u": "bain" },
     { "id": 16, "c": 1, "n": "Lola's afterimage", "cn": "罗拉的残影", "s": "HOMEBREW", "u": "lolas-afterimage" },
-    { "id": 17, "c": 1, "n": "Goblin Sniper Captain", "cn": "地精狙击队长", "s": "HOMEBREW", "u": "goblin-sniper-captain" }
+    { "id": 17, "c": 1, "n": "Goblin Sniper Captain", "cn": "地精狙击队长", "s": "HOMEBREW", "u": "goblin-sniper-captain" },
+    { "id": 18, "c": 1, "n": "Ogre Bonebreaker", "cn": "食人魔碎骨者", "s": "HOMEBREW", "u": "ogre-bonebreaker" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
