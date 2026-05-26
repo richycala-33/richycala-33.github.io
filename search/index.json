@@ -18,7 +18,10 @@
     { "id": 16, "c": 1, "n": "Lola's afterimage", "cn": "罗拉的残影", "s": "HOMEBREW", "u": "lolas-afterimage" },
     { "id": 17, "c": 1, "n": "Goblin Sniper Captain", "cn": "地精狙击队长", "s": "HOMEBREW", "u": "goblin-sniper-captain" },
     { "id": 18, "c": 1, "n": "Ogre Bonebreaker", "cn": "食人魔碎骨者", "s": "HOMEBREW", "u": "ogre-bonebreaker" },
-    { "id": 18, "c": 1, "n": "Langdedrosa Cyanwrath", "cn": "兰德卓萨·青怒", "s": "HOMEBREW", "u": "langdedrosa-cyanwrath" }
+    { "id": 19, "c": 1, "n": "Langdedrosa Cyanwrath", "cn": "兰德卓萨·青怒", "s": "HOMEBREW", "u": "langdedrosa-cyanwrath" },
+    { "id": 20, "c": 1, "n": "Maize Anvilgloom", "cn": "梅兹·黯炉", "s": "HOMEBREW", "u": "maize-anvilgloom" },
+    { "id": 21, "c": 1, "n": "Alice", "cn": "爱丽丝", "s": "HOMEBREW", "u": "alice" },
+    { "id": 22, "c": 1, "n": "The Blessed Family", "cn": "幸福一家", "s": "HOMEBREW", "u": "the-blessed-family" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
