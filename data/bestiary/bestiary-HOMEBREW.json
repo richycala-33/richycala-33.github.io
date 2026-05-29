@@ -2411,6 +2411,97 @@
       ],
       "cr": "2",
       "entries": []
+    },
+    {
+      "name": "玛格诺利亚·马格斯·蒙特莎船长",
+      "ENG_name": "Captain Magnolia Maggs Montesha",
+      "source": "HOMEBREW",
+      "page": 0,
+      "size": "M",
+      "type": "类人生物（人类）",
+      "alignment": "CN",
+      "ac": [
+        {
+          "ac": 14,
+          "from": [
+            "皮甲"
+          ]
+        }
+      ],
+      "hp": {
+        "average": 52,
+        "formula": "8d8+16"
+      },
+      "speed": {
+        "walk": 30
+      },
+      "str": 10,
+      "dex": 16,
+      "con": 14,
+      "int": 14,
+      "wis": 10,
+      "cha": 14,
+      "save": {
+        "str": "+0",
+        "dex": "+5",
+        "con": "+2",
+        "int": "+2",
+        "wis": "+0",
+        "cha": "+4"
+      },
+      "skill": {
+        "insight": "+2",
+        "deception": "+4",
+        "persuasion": "+4"
+      },
+      "senses": "被动察觉10",
+      "languages": "通用语",
+      "trait": [
+        {
+          "name": "偷袭",
+          "entries": [
+            "每回合一次，当马格斯用武器攻击击中目标并且在攻击检定上具有优势时或者当目标 5 尺范围内有未失能的盟友且马格斯在攻击骰上没有劣势时，她会额外造成 7 ({@dice 2d6}) 点伤害。"
+          ]
+        }
+      ],
+      "action": [
+        {
+          "name": "多重攻击",
+          "entries": [
+            "两次弯刀或手枪攻击。"
+          ]
+        },
+        {
+          "name": "弯刀",
+          "entries": [
+            "{@atk mw} {@hit 5}，触及5尺，单一目标。伤害：6 ({@dice 1d6+3}) 挥砍伤害。"
+          ]
+        },
+        {
+          "name": "轻型手枪",
+          "entries": [
+            "{@atk rw} {@hit 5}，射程50/200 尺，单一目标。伤害：7 ({@dice 1d8+3}) 穿刺伤害。"
+          ]
+        }
+      ],
+      "bonus": [
+        {
+          "name": "灵巧动作",
+          "entries": [
+            "她可以使用一个附赠动作进行疾走、撤离或躲藏动作。"
+          ]
+        }
+      ],
+      "reaction": [
+        {
+          "name": "直觉闪避",
+          "entries": [
+            "当一个马格斯能看见的敌人攻击命中她时，马格斯可以用反应让此次攻击的伤害减半。"
+          ]
+        }
+      ],
+      "cr": "2",
+      "entries": []
     }
   ],
   "entryIndex": [
@@ -2645,6 +2736,14 @@
       "cn": "骷髅海盗船长",
       "s": "HOMEBREW",
       "u": "pirate-captain-skeleton"
+    },
+    {
+      "id": 30,
+      "c": 1,
+      "n": "Captain Magnolia Maggs Montesha",
+      "cn": "玛格诺利亚·马格斯·蒙特莎船长",
+      "s": "HOMEBREW",
+      "u": "captain-magnolia-maggs-montesha"
     }
   ]
 }
