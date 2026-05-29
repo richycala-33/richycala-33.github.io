@@ -21,7 +21,14 @@
     { "id": 19, "c": 1, "n": "Langdedrosa Cyanwrath", "cn": "兰德卓萨·青怒", "s": "HOMEBREW", "u": "langdedrosa-cyanwrath" },
     { "id": 20, "c": 1, "n": "Maize Anvilgloom", "cn": "梅兹·黯炉", "s": "HOMEBREW", "u": "maize-anvilgloom" },
     { "id": 21, "c": 1, "n": "Alice", "cn": "爱丽丝", "s": "HOMEBREW", "u": "alice" },
-    { "id": 22, "c": 1, "n": "The Blessed Family", "cn": "幸福一家", "s": "HOMEBREW", "u": "the-blessed-family" }
+    { "id": 22, "c": 1, "n": "The Blessed Family", "cn": "幸福一家", "s": "HOMEBREW", "u": "the-blessed-family" },
+    { "id": 23, "c": 1, "n": "Sailor", "cn": "水手", "s": "HOMEBREW", "u": "sailor" },
+    { "id": 24, "c": 1, "n": "Pirate", "cn": "海盗", "s": "HOMEBREW", "u": "pirate" },
+    { "id": 25, "c": 1, "n": "Pistolero", "cn": "流浪枪手", "s": "HOMEBREW", "u": "pistolero" },
+    { "id": 26, "c": 1, "n": "Buccaneer", "cn": "劫掠者", "s": "HOMEBREW", "u": "buccaneer" },
+    { "id": 27, "c": 1, "n": "Pirate Skeleton", "cn": "骷髅海盗", "s": "HOMEBREW", "u": "pirate-skeleton" },
+    { "id": 28, "c": 1, "n": "Two-Headed Pirate Skeleton", "cn": "双头骷髅海盗", "s": "HOMEBREW", "u": "two-headed-pirate-skeleton" },
+    { "id": 29, "c": 1, "n": "Pirate Captain Skeleton", "cn": "骷髅海盗船长", "s": "HOMEBREW", "u": "pirate-captain-skeleton" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
