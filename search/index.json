@@ -28,7 +28,8 @@
     { "id": 26, "c": 1, "n": "Buccaneer", "cn": "劫掠者", "s": "HOMEBREW", "u": "buccaneer" },
     { "id": 27, "c": 1, "n": "Pirate Skeleton", "cn": "骷髅海盗", "s": "HOMEBREW", "u": "pirate-skeleton" },
     { "id": 28, "c": 1, "n": "Two-Headed Pirate Skeleton", "cn": "双头骷髅海盗", "s": "HOMEBREW", "u": "two-headed-pirate-skeleton" },
-    { "id": 29, "c": 1, "n": "Pirate Captain Skeleton", "cn": "骷髅海盗船长", "s": "HOMEBREW", "u": "pirate-captain-skeleton" }
+    { "id": 29, "c": 1, "n": "Pirate Captain Skeleton", "cn": "骷髅海盗船长", "s": "HOMEBREW", "u": "pirate-captain-skeleton" },
+    { "id": 30, "c": 1, "n": "Captain Magnolia Maggs Montesha", "cn": "玛格诺利亚·马格斯·蒙特莎船长", "s": "HOMEBREW", "u": "captain-magnolia-maggs-montesha" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
