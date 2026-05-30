@@ -29,7 +29,9 @@
     { "id": 27, "c": 1, "n": "Pirate Skeleton", "cn": "骷髅海盗", "s": "HOMEBREW", "u": "pirate-skeleton" },
     { "id": 28, "c": 1, "n": "Two-Headed Pirate Skeleton", "cn": "双头骷髅海盗", "s": "HOMEBREW", "u": "two-headed-pirate-skeleton" },
     { "id": 29, "c": 1, "n": "Pirate Captain Skeleton", "cn": "骷髅海盗船长", "s": "HOMEBREW", "u": "pirate-captain-skeleton" },
-    { "id": 30, "c": 1, "n": "Captain Magnolia Maggs Montesha", "cn": "玛格诺利亚·马格斯·蒙特莎船长", "s": "HOMEBREW", "u": "captain-magnolia-maggs-montesha" }
+    { "id": 30, "c": 1, "n": "Captain Magnolia Maggs Montesha", "cn": "玛格诺利亚·马格斯·蒙特莎船长", "s": "HOMEBREW", "u": "captain-magnolia-maggs-montesha" },
+    { "id": 31, "c": 1, "n": "Captain Magnolia Maggs Montesha", "cn": "巨蟹", "s": "HOMEBREW", "u": "huge-crab" },
+    { "id": 32, "c": 1, "n": "Carnivorous Plant", "cn": "食肉植物", "s": "HOMEBREW", "u": "carnivorous-plant" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
