@@ -31,7 +31,15 @@
     { "id": 29, "c": 1, "n": "Pirate Captain Skeleton", "cn": "骷髅海盗船长", "s": "HOMEBREW", "u": "pirate-captain-skeleton" },
     { "id": 30, "c": 1, "n": "Captain Magnolia Maggs Montesha", "cn": "玛格诺利亚·马格斯·蒙特莎船长", "s": "HOMEBREW", "u": "captain-magnolia-maggs-montesha" },
     { "id": 31, "c": 1, "n": "Captain Magnolia Maggs Montesha", "cn": "巨蟹", "s": "HOMEBREW", "u": "huge-crab" },
-    { "id": 32, "c": 1, "n": "Carnivorous Plant", "cn": "食肉植物", "s": "HOMEBREW", "u": "carnivorous-plant" }
+    { "id": 32, "c": 1, "n": "Carnivorous Plant", "cn": "食肉植物", "s": "HOMEBREW", "u": "carnivorous-plant" },
+    { "id": 33, "c": 1, "n": "Gurard", "cn": "警卫", "s": "HOMEBREW", "u": "gurard" },
+    { "id": 34, "c": 1, "n": "Timno", "cn": "提姆诺", "s": "HOMEBREW", "u": "timno" },
+    { "id": 35, "c": 1, "n": "Arya/Isabella", "cn": "艾莉亚/伊莎贝拉", "s": "HOMEBREW", "u": "arya-isabella" },
+    { "id": 36, "c": 1, "n": "Gurard Captain", "cn": "警卫队长", "s": "HOMEBREW", "u": "gurard-captain" },
+    { "id": 37, "c": 1, "n": "Roland Wells", "cn": "罗兰·威尔斯", "s": "HOMEBREW", "u": "roland-wells" },
+    { "id": 38, "c": 1, "n": "Resurrected Gurard", "cn": "复生警卫", "s": "HOMEBREW", "u": "resurrected-gurard" },
+    { "id": 39, "c": 1, "n": "Resurrected Wizard", "cn": "复生法师", "s": "HOMEBREW", "u": "resurrected-wizard" },
+    { "id": 40, "c": 1, "n": "Monit", "cn": "莫尼特", "s": "HOMEBREW", "u": "monit" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
