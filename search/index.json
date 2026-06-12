@@ -39,7 +39,8 @@
     { "id": 37, "c": 1, "n": "Roland Wells", "cn": "罗兰·威尔斯", "s": "HOMEBREW", "u": "roland-wells" },
     { "id": 38, "c": 1, "n": "Resurrected Gurard", "cn": "复生警卫", "s": "HOMEBREW", "u": "resurrected-gurard" },
     { "id": 39, "c": 1, "n": "Resurrected Wizard", "cn": "复生法师", "s": "HOMEBREW", "u": "resurrected-wizard" },
-    { "id": 40, "c": 1, "n": "Monit", "cn": "莫尼特", "s": "HOMEBREW", "u": "monit" }
+    { "id": 40, "c": 1, "n": "Monit", "cn": "莫尼特", "s": "HOMEBREW", "u": "monit" },
+    { "id": 40, "c": 1, "n": "Phase Spider Queen", "cn": "相位蜘蛛女王", "s": "HOMEBREW", "u": "phase-spider-queen" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
