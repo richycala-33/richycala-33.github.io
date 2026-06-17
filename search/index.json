@@ -40,7 +40,10 @@
     { "id": 38, "c": 1, "n": "Resurrected Gurard", "cn": "复生警卫", "s": "HOMEBREW", "u": "resurrected-gurard" },
     { "id": 39, "c": 1, "n": "Resurrected Wizard", "cn": "复生法师", "s": "HOMEBREW", "u": "resurrected-wizard" },
     { "id": 40, "c": 1, "n": "Monit", "cn": "莫尼特", "s": "HOMEBREW", "u": "monit" },
-    { "id": 40, "c": 1, "n": "Phase Spider Queen", "cn": "相位蜘蛛女王", "s": "HOMEBREW", "u": "phase-spider-queen" }
+    { "id": 41, "c": 1, "n": "Phase Spider Queen", "cn": "相位蜘蛛女王", "s": "HOMEBREW", "u": "phase-spider-queen" },
+    { "id": 42, "c": 1, "n": "Sea Captain", "cn": "老船长", "s": "HOMEBREW", "u": "sea-captain" },
+    { "id": 43, "c": 1, "n": "Musketeer", "cn": "步枪手", "s": "HOMEBREW", "u": "musketeer" },
+    { "id": 44, "c": 1, "n": "Scoundrel", "cn": "流氓", "s": "HOMEBREW", "u": "scoundrel" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
