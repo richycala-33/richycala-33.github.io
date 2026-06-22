@@ -43,7 +43,10 @@
     { "id": 41, "c": 1, "n": "Phase Spider Queen", "cn": "相位蜘蛛女王", "s": "HOMEBREW", "u": "phase-spider-queen" },
     { "id": 42, "c": 1, "n": "Sea Captain", "cn": "老船长", "s": "HOMEBREW", "u": "sea-captain" },
     { "id": 43, "c": 1, "n": "Musketeer", "cn": "步枪手", "s": "HOMEBREW", "u": "musketeer" },
-    { "id": 44, "c": 1, "n": "Scoundrel", "cn": "流氓", "s": "HOMEBREW", "u": "scoundrel" }
+    { "id": 44, "c": 1, "n": "Scoundrel", "cn": "流氓", "s": "HOMEBREW", "u": "scoundrel" },
+    { "id": 45, "c": 1, "n": "Guzi", "cn": "古兹", "s": "HOMEBREW", "u": "guzi" },
+    { "id": 46, "c": 1, "n": "Assimude Nock", "cn": "阿西穆德·诺克", "s": "HOMEBREW", "u": "assimude-nock" },
+    { "id": 47, "c": 1, "n": "Mattress Dragon", "cn": "床板飞龙", "s": "HOMEBREW", "u": "mattress-dragon" }
   ],
   "m": { "s": { "HOMEBREW": 99 } }
 }
